@@ -1,0 +1,21 @@
+{
+  "originUrl": "https://www.ilmgmt.com",
+  "lastCrawled": "https://www.ilmgmt.com/",
+  "urls": [],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.ilmgmt.com/sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.ilmgmt.com/sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 403"
+    }
+  ]
+}
